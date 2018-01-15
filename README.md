@@ -5,7 +5,9 @@
 - 安裝讓你快樂操作 R 的 IDE：[RStudio](https://www.rstudio.com/products/rstudio/#Desktop)
 - 打開 RStudio，安裝套件 `tidyverse`：
 
-    install.packages("tidyverse")
+```
+install.packages("tidyverse")
+```
     
 - 下載好心人士（揪4我）準備的[資料們](https://www.dropbox.com/sh/yth2z6ln336itex/AAD1lHnGeX9g77DaFvcG006ia?dl=0)
 
